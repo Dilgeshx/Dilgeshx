@@ -27,7 +27,7 @@
 I am a Fullstack developer currently studying at **GTU**, specializing in building scalable web and mobile applications.
 
 * 🔭 **I’m currently working on:** Cross-platform mobile apps and React-based interfaces for robotic systems (ROS).
-* 🌱 **I’m currently learning:** Advanced Numerical Analysis & Clean Architecture.
+* 🌱 **I’m currently learning:** Embedded software development.
 * 💻 **My Stack:** Mobile (React Native/Flutter), Web (React.js), and Backend integration.
 ---
 
