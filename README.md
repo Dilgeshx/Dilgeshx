@@ -1,16 +1,34 @@
-## Hi there 👋
+### Merhaba, ben Dilgeş! 👋
 
-<!--
-**Dilgeshx/Dilgeshx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gebze Teknik Üniversitesi'nde öğrenciyim. Şu anda robotik sistemler, sayısal analiz ve web teknolojileri üzerine çalışıyorum.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Hakkımda
+
+- 🎓 **Eğitim:** GTÜ'de lisans eğitimime devam ediyorum.
+- 🔭 **Şu an üzerinde çalıştığım konular:**
+  - ROS (Robot Operating System) kullanarak React tabanlı arayüz geliştirme.
+  - Sayısal analiz, diferansiyel denklemler ve Fourier serileri üzerine Python uygulamaları.
+  - Üretken yapay zeka ve görselleştirme araçları.
+- 💛 **İlgi Alanlarım:** Robotik kodlama, Matematiksel modelleme ve Fenerbahçe.
+
+---
+
+### 🛠️ Kullandığım Teknolojiler
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub İstatistiklerim
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=SENIN_GITHUB_KULLANICI_ADIN&show_icons=true&theme=radical" alt="Dilgeş'in GitHub İstatistikleri" />
+</p>
