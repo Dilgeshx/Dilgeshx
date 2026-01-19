@@ -1,34 +1,60 @@
-### Merhaba, ben Dilgeş! 👋
+<div align="center">
 
-Gebze Teknik Üniversitesi'nde öğrenciyim. Şu anda robotik sistemler, sayısal analiz ve web teknolojileri üzerine çalışıyorum.
+  <h1>Hi there, I'm Dilgeş! 👋</h1>
+  <h3>Full Stack Developer | Mobile & Web</h3>
+
+  <p>
+    <i>Crafting seamless digital experiences with code.</i>
+  </p>
+  
+  <br/>
+
+  <a href="https://www.linkedin.com/in/dilge%C5%9F-sar%C4%B1bulak-876481236/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:dilgesaribulak@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
+</div>
+
+<br/>
 
 ---
 
-### 🚀 Hakkımda
+### ⚡ About Me
 
-- 🎓 **Eğitim:** GTÜ'de lisans eğitimime devam ediyorum.
-- 🔭 **Şu an üzerinde çalıştığım konular:**
-  - ROS (Robot Operating System) kullanarak React tabanlı arayüz geliştirme.
-  - Sayısal analiz, diferansiyel denklemler ve Fourier serileri üzerine Python uygulamaları.
-  - Üretken yapay zeka ve görselleştirme araçları.
-- 💛 **İlgi Alanlarım:** Robotik kodlama, Matematiksel modelleme ve Fenerbahçe.
+I am a Fullstack developer currently studying at **GTU**, specializing in building scalable web and mobile applications.
 
+* 🔭 **I’m currently working on:** Cross-platform mobile apps and React-based interfaces for robotic systems (ROS).
+* 🌱 **I’m currently learning:** Advanced Numerical Analysis & Clean Architecture.
+* 💻 **My Stack:** Mobile (React Native/Flutter), Web (React.js), and Backend integration.
 ---
 
-### 🛠️ Kullandığım Teknolojiler
+### 🛠️ Tech Stack
 
-<p align="left">
+<div align="center">
+
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+
+</div>
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### 📈 GitHub Stats
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=SENIN_GITHUB_KULLANICI_ADIN&show_icons=true&theme=radical" alt="Dilgeş'in GitHub İstatistikleri" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
+</div>
