@@ -1,57 +1,46 @@
-<div align="center">
+# Selam! Ben Dilgeş 👋
 
-  <h1>Hi there, I'm Dilgeş! 👋</h1>
-  <h3>Full Stack Developer | Mobile & Web</h3>
+### 🚀 Full-stack Developer | Mobile & Web Enthusiast
 
-  <p>
-    <i>Crafting seamless digital experiences with code.</i>
-  </p>
-  
-  <br/>
-
-  <a href="https://www.linkedin.com/in/dilge%C5%9F-sar%C4%B1bulak-876481236/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:dilgesaribulak@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-
-</div>
-
-<br/>
+Profesyonel olarak web ve mobil dünyasında çözümler üretiyor, karmaşık problemleri temiz ve sürdürülebilir kodlara dönüştürmeyi seviyorum. Aynı zamanda GTÜ'de akademik yolculuğuma devam ediyorum.
 
 ---
 
-### ⚡ About Me
+### 🛠️ Yetenekler & Araçlar
 
-I am a Fullstack developer currently studying at **GTU**, specializing in building scalable web and mobile applications.
-
-* 🔭 **I’m currently working on:** Cross-platform mobile apps and React-based interfaces for robotic systems (ROS).
-* 🌱 **I’m currently learning:** Embedded software development.
-* 💻 **My Stack:** Mobile (React Native/Flutter), Web (React.js), and Backend integration.
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,mongodb,postgresql,python,dart,flutter,ros,git,docker,linux" />
+</p>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 İstatistikler & Dil Grafiği
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilgeshx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
-</div>
+Bu bölüm her hafta otomatik olarak güncellenir ve profilinde oldukça "cool" durur:
+
+| **GitHub İstatistiklerim** | **En Çok Kullandığım Diller** |
+| :---: | :---: |
+| <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[KullanıcıAdın]&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /> | <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[KullanıcıAdın]&layout=compact&theme=radical&hide_border=false" /> |
+
+---
+
+### ⚡ Cool Features (Profile Trophies)
+
+Kazandığın başarıları (commit sayısı, depo sayısı vb.) şık kupalar şeklinde sergileyebilirsin:
+
+[![github-readme-stats](https://github-profile-trophy.vercel.app/?username=[KullanıcıAdın]&theme=radical&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 📫 Benimle İletişime Geç
+
+<p align="left">
+<a href="https://linkedin.com/in/[LinkedInKullanıcıAdın]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dilgeş Sarıbulak" height="30" width="40" /></a>
+<a href="https://twitter.com/[TwitterKullanıcıAdın]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dilgessaribulak" height="30" width="40" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+</p>
