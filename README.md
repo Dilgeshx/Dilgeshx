@@ -1,9 +1,6 @@
 # Dilgeş Sarıbulak 👋
 **Software Developer**
->Fullstack
->DevOps Engineering
->API Integration
->Mobile App Development
+
 ---
 
 ### 🛠 Tech Stack
