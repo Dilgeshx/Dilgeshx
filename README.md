@@ -82,7 +82,7 @@ I'm a software engineer who loves building across the stack — from polished mo
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code."*
+*"hello mello fella"*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Dilgeshx&color=6EE7B7&style=flat-square&label=Profile+Views)
 
