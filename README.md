@@ -11,9 +11,9 @@
 
 # Dilgeş Sarıbulak
 
-**Software Engineer** · Building things that matter
+**Software Developer** · Building things that matter
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=6EE7B7&center=true&vCenter=true&width=435&lines=Full-Stack+%26+Mobile+Engineer;React+%2F+Next.js+%2F+Flutter+%2F+Swift;Turning+coffee+into+clean+code+%E2%98%95)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=6EE7B7&center=true&vCenter=true&width=435&lines=Full-Stack+%26+Electronics+Engineer;React+%2F+Next.js+%2F+Flutter+%2F+Swift;Turning+coffee+into+clean+code+%E2%98%95)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,7 +21,7 @@
 
 ## 🧠 About Me
 
-I'm a software engineer who loves building across the stack — from polished mobile UIs to scalable backend systems. I care deeply about clean architecture, developer experience, and shipping products that actually work in the real world.
+I'm a software developer, thats it lol
 
 - 🔭 Currently working on full-stack and cross-platform mobile apps
 - ⚡ Comfortable moving between frontend, backend, and infra
@@ -72,7 +72,7 @@ I'm a software engineer who loves building across the stack — from polished mo
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dilgess)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dilges)
 [![Twitter](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/dilgeshx)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://dilges-dev.vercel.app)
 
